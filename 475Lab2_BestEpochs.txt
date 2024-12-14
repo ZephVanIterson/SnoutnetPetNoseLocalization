@@ -1,0 +1,4 @@
+Normal data: Best result in epoch 17
+HFlip data: Best result at epoch 16
+GNoise: Best result at epoch 68
+Double Augmentation: Best result at epoch 79

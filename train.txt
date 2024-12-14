@@ -1,0 +1,4 @@
+python train.py -d "YOUR ABSOLUTE PATH TO oxford-iiit-pet-noses\images-original\images DIRECTORY HERE" -a 0 -e 50 -b 64
+python train.py -d "YOUR ABSOLUTE PATH TO oxford-iiit-pet-noses\images-original\images DIRECTORY HERE" -a 1 -e 50 -b 64
+python train.py -d "YOUR ABSOLUTE PATH TO oxford-iiit-pet-noses\images-original\images DIRECTORY HERE" -a 2 -e 50 -b 64
+python train.py -d "YOUR ABSOLUTE PATH TO oxford-iiit-pet-noses\images-original\images DIRECTORY HERE" -a 12 -e 50 -b 64

@@ -1,0 +1,7 @@
+Normal: 49.845s per epoch, 9.078ms per image
+Gaussian Noise: 60.772s per epoch, 5.534 per image
+Horizontal Flip: 35.316s per epoch, 3.216ms per image
+Combined Augmentation: 120.594s per epoch, 5.491ms per image
+
+Testing:
+3.175ms per image

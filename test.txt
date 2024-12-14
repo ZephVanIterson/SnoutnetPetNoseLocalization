@@ -1,0 +1,4 @@
+python test.py -d "YOUR ABSOLUTE PATH TO oxford-iiit-pet-noses\images-original\images DIRECTORY HERE" -a 0
+python test.py -d "YOUR ABSOLUTE PATH TO oxford-iiit-pet-noses\images-original\images DIRECTORY HERE" -a 1
+python test.py -d "YOUR ABSOLUTE PATH TO oxford-iiit-pet-noses\images-original\images DIRECTORY HERE" -a 2
+python test.py -d "YOUR ABSOLUTE PATH TO oxford-iiit-pet-noses\images-original\images DIRECTORY HERE" -a 12
